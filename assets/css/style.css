@@ -1,13 +1,16 @@
+/* Universal Selector*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Body Element */
 body {
     background-color: #d9dcd6;
 }
 
+/* Header Element */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/* Class Selector for Section 1 Image */
 .main-section {
     height: 800px;
     width: 100%;
@@ -59,6 +63,7 @@ p {
     background-position: center;
 }
 
+/* Class Selectors for Section 2 Images and Content Box */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,6 +80,7 @@ p {
     margin-left: 20px;
 }
 
+/* Class Selectors for Aside Benefits Side Bar */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -134,6 +140,7 @@ p {
     max-width: 150px;
 }
 
+/* Class Selectors for Section 2 Articles */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -188,6 +195,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer Element */
 footer {
     padding: 30px;
     clear: both;
