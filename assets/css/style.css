@@ -49,6 +49,7 @@ a {
     text-decoration: none;
 }
 
+/* Universal font size for all paragraph elements */
 p {
     font-size: 16px;
 }
@@ -63,7 +64,7 @@ p {
     background-position: center;
 }
 
-/* Class Selectors for Section 2 Images and Content Box */
+/* Class Selectors for Main Content, Images Positioning and Content Box */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -80,7 +81,7 @@ p {
     margin-left: 20px;
 }
 
-/* Class Selectors for Aside Benefits Side Bar */
+/* Class Selectors for Benefits Side Bar */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -140,7 +141,7 @@ p {
     max-width: 150px;
 }
 
-/* Class Selectors for Section 2 Articles */
+/* Class Selectors for Main Sections Content */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
