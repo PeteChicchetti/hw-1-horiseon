@@ -53,8 +53,8 @@ p {
     font-size: 16px;
 }
 
-/* Class Selector for Section 1 Image */
-.main-section {
+/* Class Selector for HomePage Image */
+.main-image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
